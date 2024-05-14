@@ -21,5 +21,4 @@ const printMotivationalMessage = () => {
 // Set the countdown duration in seconds
 const countdownDuration = 5;
 
-// Start the countdown
 countdown(countdownDuration);
